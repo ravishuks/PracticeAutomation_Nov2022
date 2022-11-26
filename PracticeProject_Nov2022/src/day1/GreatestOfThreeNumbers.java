@@ -7,6 +7,7 @@ public class GreatestOfThreeNumbers {
 		int firstNum;
 		int secondNum;
 		int thirdNum;
+		int forthNum;
 		
 		firstNum = 30;
 		secondNum= 3;
